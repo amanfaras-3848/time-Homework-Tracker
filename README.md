@@ -10,7 +10,7 @@ Paste the code inside Notepad.
 
 Click on File > Save As.
 
-Type the file name exactly like this: dashboard.py
+Type the file name exactly like this: timetable.py
 
 Below the name, change "Save as type" to "All Files".
 
@@ -22,7 +22,7 @@ Go to your Desktop.
 
 If you use VS Code for your coding practicals, you can simply open the file there and click the Play (▶️) button on the top right.
 
-Alternatively, you can just right-click on dashboard.py, select Open with, and choose Python.
+Alternatively, you can just right-click on timetable.py, select Open with, and choose Python.
 
 Phase 2: How to Use
 
@@ -32,7 +32,7 @@ You will see a default timetable on the screen.
 
 Click on any time or task text to edit it. You can change it to match your college lecture timings or group project meetings.
 
-The app will automatically show a red LIVE badge next to the task you should be doing right now based on the clock.
+The code will automatically show a red LIVE badge next to the task you should be doing right now based on the clock.
 
 2. Track Your Doubts and Homework
 
@@ -56,4 +56,4 @@ Click the 🌓 Theme button at the top to switch between Light mode and Dark mod
 
 Click the 📤 Export Data button at the top to save all your tasks and timetable in a secure file on your laptop.
 
-If you ever open the app on another laptop, just click 📥 Import Data and select that file to load everything back!
+If you ever open the code on another laptop, just click 📥 Import Data and select that file to load everything back!
