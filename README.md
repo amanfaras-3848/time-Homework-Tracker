@@ -1,4 +1,5 @@
 # time-Homework-Tracker <br>
+
 Step 1: Save the Code
 
 Copy the entire Python code from GitHub.
@@ -23,7 +24,7 @@ If you use VS Code for your coding practicals, you can simply open the file ther
 
 Alternatively, you can just right-click on dashboard.py, select Open with, and choose Python.
 
-Phase 2: How to Use the App
+Phase 2: How to Use
 
 1. Manage Your Schedule
 
